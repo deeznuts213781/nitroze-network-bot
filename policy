@@ -1,0 +1,155 @@
+# Nitroze Network Bot
+# Privacy Policy
+
+**Effective Date:** November 15, 2026
+
+This Privacy Policy explains how Nitroze Network Bot processes, uses and stores information when users interact with the bot within the Nitroze Network Discord server.
+
+By using the bot, you acknowledge the data practices described in this policy.
+
+## 1. Information We Process
+
+Depending on which features you use, the bot may process the following information:
+
+- Discord usernames and user IDs.
+- Minecraft usernames and UUIDs.
+- Discord account links associated with Hypixel profiles.
+- Messages and attachments submitted through tickets.
+- Ticket creation and closure information.
+- Carrier applications and verification information.
+- Carrier service logs, including specifications and specified amounts.
+- Minecraft SkyBlock profile statistics retrieved through supported APIs.
+- Staff actions and relevant ticket activity.
+
+The bot only processes information necessary to provide its intended functionality.
+
+## 2. How Information Is Used
+
+Information processed by the bot is used for the following purposes:
+
+- Creating and managing Discord tickets.
+- Processing carrier role applications.
+- Verifying Minecraft account ownership through Hypixel.
+- Retrieving Minecraft player information through the userinfo command.
+- Displaying SkyBlock statistics through the sbstats command.
+- Managing carrier activity and service records.
+- Generating HTML ticket transcripts.
+- Resolving disputes and supporting server moderation.
+
+Information is not intentionally collected for advertising or sold to third parties.
+
+## 3. Hypixel API Usage
+
+The bot interacts with external services to retrieve Minecraft player information and SkyBlock statistics.
+
+These services may include the Hypixel API.
+
+The Hypixel API is used to:
+
+- Retrieve Minecraft player UUIDs.
+- Check Discord social media links associated with Hypixel profiles.
+- Verify Minecraft account ownership during carrier applications.
+- Provide information through the userinfo command.
+
+API requests are triggered by users interacting with the relevant bot features.
+
+The bot does not intentionally perform continuous player tracking or bulk player data collection.
+
+## 4. Data Storage
+
+Nitroze Network Bot does not maintain a separate database for ticket messages, logs and HTML transcripts are not stored in a separate database.
+
+Information generated through the bot may be sent to designated Discord channels for logging and administrative purposes.
+
+Discord messages and attachments may remain stored on Discord's platform after being sent by the bot.
+
+The bot's API credentials are stored as environment variables on its hosting environment and are not intended to be accessible to ordinary users.
+
+## 5. Data Retention
+
+Ticket logs and HTML transcripts are intended to remain in their designated Discord logging channels indefinitely.
+
+The bot does not automatically delete these records.
+
+Records may be manually deleted by authorised server administrators when necessary.
+
+Information is retained to support:
+
+- Historical ticket reviews.
+- Order and service verification.
+- Dispute resolution.
+- Carrier activity reviews.
+- Moderation and administrative investigations.
+
+Users should understand that information submitted through tickets may remain accessible to authorised staff after a ticket has been closed.
+
+## 6. Access to Information
+
+Access to stored information is restricted through Discord server and channel permissions.
+
+Authorised staff members and administrators with the appropriate permissions may access ticket logs, transcripts and other administrative records.
+
+Users should not assume that information submitted through tickets is visible only to themselves.
+
+## 7. Third Party Services
+
+The bot relies on third-party services to provide certain functionality.
+
+These may include:
+
+- Discord for bot operation, messaging and storage of logs.
+- Hypixel for Minecraft player information and profile verification.
+- Mojang and Microsoft related services for Minecraft account information.
+
+These services operate independently and have their own privacy policies and data handling practices.
+
+Nitroze Network does not control the independent data processing activities of these third-party services.
+
+## 8. Data Security
+
+Reasonable measures are taken to protect bot credentials and restrict access to administrative information.
+
+The bot uses Discord permissions to control access to designated logging and ticket channels.
+
+However, no online service or storage method can guarantee absolute security.
+
+Users should avoid submitting passwords, authentication tokens or other highly sensitive information through tickets.
+
+## 9. Data Requests and Deletion
+
+Users who have questions or concerns about their information may contact the Nitroze Network administration team.
+
+Requests concerning information stored in ticket logs or transcripts will be reviewed by authorised administrators.
+
+Where appropriate and legally required, requests for access, correction or deletion will be handled in accordance with applicable data protection laws.
+
+Please note that deleting a record from a Discord channel does not necessarily remove copies retained by Discord or other third-party services.
+
+## 10. Children's Privacy
+
+The bot is not specifically designed to collect personal information from children.
+
+Users must comply with Discord's minimum age requirements and all applicable age-related laws when accessing the Discord server and using the bot.
+
+## 11. Changes to This Privacy Policy
+
+This Privacy Policy may be updated when the bot's functionality, data processing practices or applicable requirements change.
+
+The latest version will be published at the designated Nitroze Network information channels or the official GitHub repository.
+
+Users are encouraged to review this policy periodically.
+
+## 12. Contact Information
+
+For privacy questions, concerns or requests regarding information processed by Nitroze Network Bot, please contact the Nitroze Network administration team through the official Discord server.
+
+**Bot:** Nitroze Network Bot
+
+**Community:** Nitroze Network Discord Server
+
+---
+
+By using Nitroze Network Bot, you acknowledge that you have read and understood this Privacy Policy.
+
+**Nitroze Network Bot**
+Privately operated for the Nitroze Network Discord community.
