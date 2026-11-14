@@ -1,0 +1,170 @@
+# Nitroze Network Bot
+# Terms of Service
+
+**Effective Date:** November 15, 2026
+
+Welcome to Nitroze Network Bot, a privately operated Discord bot developed for the Nitroze Network Discord server.
+
+By using the bot or interacting with its commands and features, you agree to the following Terms of Service.
+
+## 1. General Usage
+
+Nitroze Network Bot is designed to provide services and management features within the Nitroze Network Discord server.
+
+The bot includes features such as:
+
+- Ticket creation and management.
+- Support and role request tickets.
+- Carrying service requests.
+- Carrier management and verification.
+- Carrier activity logging.
+- Ticket transcripts and moderation records.
+- Minecraft player information and SkyBlock statistics.
+- Other server administration features.
+
+The bot is intended exclusively for the Nitroze Network Discord community and is not publicly distributed.
+
+## 2. User Responsibilities
+
+Users agree to:
+
+- Provide accurate information when submitting tickets or applications.
+- Provide their correct Minecraft username when requesting carrier verification.
+- Follow the rules of the Nitroze Network Discord server.
+- Treat staff members and other community members respectfully.
+- Avoid abusing, exploiting or attempting to disrupt the bot.
+- Avoid submitting false, misleading or fraudulent information.
+
+Users are responsible for the information they submit through the bot.
+
+## 3. Ticket System
+
+The bot provides a ticket system for support requests, carrying service requests and role applications.
+
+By creating a ticket, users acknowledge that:
+
+- Ticket messages may be reviewed by authorised server staff.
+- Ticket information may be recorded for moderation and administrative purposes.
+- Staff members may claim, rename, manage or close tickets.
+- Ticket transcripts may be generated when a ticket is closed.
+
+Users must not use the ticket system for spam, harassment, fraudulent requests or other activities that violate server rules.
+
+## 4. Carrier Applications and Verification
+
+Users applying for a carrier role may be required to provide their Minecraft username and other relevant information.
+
+The bot may use the Hypixel API to check whether the Discord account linked to a Minecraft player's Hypixel profile matches the Discord account submitting the application.
+
+Applicants may need to link their Discord account through the Hypixel lobby using the in-game link command before verification can succeed.
+
+Providing false information or attempting to impersonate another Minecraft player may result in rejection of the application or further moderation action.
+
+Approval of carrier applications is at the discretion of Nitroze Network staff.
+
+## 5. Hypixel API and SkyBlock Statistics
+
+The bot may interact with the Hypixel API and SkyCrypt API to retrieve Minecraft player information and SkyBlock statistics.
+
+This information may include:
+
+- Minecraft player information.
+- SkyBlock profile statistics.
+- Networth estimates.
+- Skill levels and experience.
+- Slayer statistics.
+- Dungeon and Catacombs statistics.
+- Other publicly available or calculated player information.
+
+Statistics provided by these services may be incomplete, outdated or inaccurate.
+
+Networth and other calculated statistics are estimates and should not be considered guaranteed values.
+
+Nitroze Network does not own or operate Hypixel or SkyCrypt and is not responsible for their availability, accuracy or service interruptions.
+
+## 6. Carrier Logs and Service Records
+
+The bot provides logging functionality for carriers and authorised staff.
+
+Carrier logs may contain information about completed services, specifications, amounts and the Discord account submitting the log.
+
+These records may be retained in designated Discord logging channels for administrative purposes.
+
+Submitting false or misleading service logs may result in disciplinary action.
+
+## 7. Data Storage and Ticket Transcripts
+
+The bot may generate HTML transcripts of closed tickets and send them to designated Discord logging channels.
+
+Ticket logs and transcripts are intended to remain available indefinitely unless manually deleted by authorised server staff.
+
+Records may be used for:
+
+- Resolving disputes.
+- Reviewing previous orders.
+- Investigating reports.
+- Verifying completed services.
+- Staff moderation and administration.
+
+Access to these records is controlled through Discord channel permissions.
+
+The bot does not maintain a separate database of ticket transcripts. However, records sent to Discord may remain stored on Discord's platform.
+
+For further information about data processing and retention, please refer to the Nitroze Network Bot Privacy Policy.
+
+## 8. Availability and Service Changes
+
+Nitroze Network reserves the right to:
+
+- Modify or update bot functionality.
+- Temporarily disable commands or features.
+- Restrict access to certain functionality.
+- Suspend or remove access for users who abuse the bot.
+- Modify carrying services and application requirements.
+
+The bot is provided on an availability basis. We do not guarantee uninterrupted operation or that every feature will always be available.
+
+## 9. Abuse and Restrictions
+
+Users must not:
+
+- Attempt to exploit or manipulate bot functionality.
+- Abuse commands or intentionally overload the bot.
+- Attempt to access restricted tickets or logging channels.
+- Use the bot to harass, threaten or impersonate others.
+- Attempt to obtain or expose private API keys or credentials.
+
+Violations may result in restrictions, ticket closures, role removal or other disciplinary action at the discretion of server staff.
+
+## 10. Third Party Services
+
+The bot may rely on external services, including:
+
+- Discord.
+- Hypixel API.
+- Mojang and Minecraft account services.
+- SkyCrypt API.
+
+These services operate independently and are subject to their own terms, policies and availability.
+
+Nitroze Network is not responsible for outages, changes or limitations imposed by these third-party services.
+
+## 11. Changes to These Terms
+
+These Terms of Service may be updated when bot functionality, server policies or operating requirements change.
+
+The latest version will be made available through the designated Nitroze Network information channels.
+
+Continued use of the bot after updated terms are published constitutes acceptance of the updated terms, to the extent permitted by applicable law.
+
+## 12. Contact and Support
+
+For questions, concerns or disputes regarding the bot, users should contact the Nitroze Network administration team through the official Discord server.
+
+---
+
+**Nitroze Network Bot**
+
+Privately operated for the Nitroze Network Discord community.
+
+By using Nitroze Network Bot, you acknowledge that you have read and understood these Terms of Service.
