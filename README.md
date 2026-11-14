@@ -28,7 +28,7 @@ The bot then compares the Discord account linked to the Hypixel profile with the
 
 ### API Usage Restrictions
 
-- API requests are only made when a Role Request Ticket is opened and verification is required.
+- API requests are only made when a Role Request Ticket is opened and verification is required and once the manual /userinfo command is used.
 - The API is not used for continuous player tracking.
 - The bot does not perform bulk player lookups.
 - The bot does not collect or store player statistics.
